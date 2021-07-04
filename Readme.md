@@ -30,7 +30,8 @@ For example to switch between few config files.
 |      |___ prod.config.json
 |
 |___ public
-         |___ app.config.json
+|       |___ app.config.json
+|___ settings.json
 ```
 In this case any of configs in `./configs` folder could replace `app.config.json` file in public folder via `set_config`.
 
