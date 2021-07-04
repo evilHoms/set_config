@@ -1,0 +1,6 @@
+{
+    "CONFIG_PATH": "./configs",
+    "CONFIG_PATTERN": ".config.json",
+    "DEST_CONFIG_PATH": "./destination_path",
+    "DEST_CONFIG_NAME": "config.destination_example.json"
+}
